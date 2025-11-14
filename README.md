@@ -28,6 +28,15 @@ A essência aumenta a cada turno.
 O quantidade de essência recebida a cada turno aumenta conforme as rodadas passam, tornando o jogo mais rápido.
 
 #### Turnos
+Cada rodada possui um turno de cada jogador, onde cada jogador recebe:
+- Efeitos (Positivos e Negativos)
+- Essência proporcional a rodada. OBS: Näo recebe se estiver atordoado e passa a jogada automaticamente.
+
+#### Escolhas
+As escolhas são dinâmicas e são exibidas conforme disponibilidade e tem relação com a Essência disponivel.
+A opção escolhida deve ser informada através dos números informados.
+O turno só muda se o jogador fizer uma escolha válida
+Caso fique sem essência para jogar alguma carta, a única escolha possivel é: Pular a jogada.
 
 #### Cartas
 Existem diversas cartas, cada uma pode afetar em:
@@ -37,6 +46,8 @@ Existem diversas cartas, cada uma pode afetar em:
 
 No começo da partida 5 cartas são disponibilizas para cada jogador de forma aleatória, onde cada uma delas pode aplicar DANO, CURA, ou Efeitos (nem todas possuem).
 
-#### Escolhas
-As escolhas são dinâmicas e são exibidas conforme disponibilidade e tem relação com a Essência disponivel.
-A opção escolhida deve ser informada através dos números informados.
+##### Cartas - Detalhes
+
+Cada carta possui seus atributos, veja abaixo:
+
+
