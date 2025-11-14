@@ -33,8 +33,10 @@ O quantidade de essência recebida a cada turno aumenta conforme as rodadas pass
 Existem diversas cartas, cada uma pode afetar em:
 - Dano
 - Cura
-- Efeitos
+- Efeitos -> A cada turno o jogador recebe os efeitos que podem afetar a VIDA (DANO e/ou CURA), além do ATORDOAMENTO que pode inibir a jogada naquele turno.
+
+No começo da partida 5 cartas são disponibilizas para cada jogador de forma aleatória, onde cada uma delas pode aplicar DANO, CURA, ou Efeitos (nem todas possuem).
 
 #### Escolhas
-
-
+As escolhas são dinâmicas e são exibidas conforme disponibilidade e tem relação com a Essência disponivel.
+A opção escolhida deve ser informada através dos números informados.
