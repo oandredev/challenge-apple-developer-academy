@@ -50,4 +50,6 @@ No começo da partida 5 cartas são disponibilizas para cada jogador de forma al
 
 Cada carta possui seus atributos, veja abaixo:
 
+<img width="2090" height="638" alt="image" src="https://github.com/user-attachments/assets/44fc0161-5a7a-4b85-9c5b-ec4cd1e72fa2" />
+
 
