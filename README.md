@@ -4,6 +4,12 @@ Esse repositório consiste em um desafio desenvolvido durante o Workshop da Appl
 
 <hr>
 
+### IMPORTANTE: 
+
+Caso tenha algum problema para rodar o arquivo "solto", anexei também o projeto do XCode zipado.
+
+<hr>
+
 ### RESUMO GERAL
 
 - Jogo baseado em Turnos
