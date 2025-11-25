@@ -356,7 +356,7 @@ func aplicarEfeitos(_ jogador: Int) {
             totalDano += efeito.valor
             print(" > Golpe Dracônico: Recebeu 3 de dano")
         case "Aura de Proteção":
-            totalCura += (jogadores[jogador].vida * (1 + efeito.valor))
+            totalCura += jogadores[jogador].vida * efeito.valor
             print(" Aura de Proteção: Regenerou 15% de vida")
         case "Ciclo da Alma":
             totalCura += efeito.valor
